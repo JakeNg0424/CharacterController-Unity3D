@@ -1,4 +1,4 @@
-# CharacterController-Unity3D
+# Character Controller in Unity3D
  Getting comfortable with character controllers in Unity
 
 Repository contains the Unity project that runs + video of the project being played.
